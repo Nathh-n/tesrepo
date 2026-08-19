@@ -1,2 +1,4 @@
 # tesrepo
-ini adalah repository belajar git
+ini adalah repository belajar
+
+basic git workflow
