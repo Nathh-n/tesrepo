@@ -18,3 +18,5 @@ tes push
 
 
 teslagi
+
+ini tes lagi2
